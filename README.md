@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio website, hosted live on **Gi
 
 This site showcases my projects, technical skills, background, and ways to get in touch with me.
 
-👉 **[View Live Site](https://your-github-username.github.io)** *(Replace with your actual GitHub Pages URL)*
+👉 **[View Live Site](https://pranjalghimire7.com.np/)** *(Replace with your actual GitHub Pages URL)*
 
 ---
 
